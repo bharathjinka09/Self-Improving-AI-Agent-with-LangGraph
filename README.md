@@ -26,8 +26,8 @@ An implementation of a self-improving code generation agent built using LangGrap
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/self-improving-agent-langgraph.git
-   cd self-improving-agent-langgraph
+   git clone https://github.com/bharathjinka09/Self-Improving-AI-Agent-with-LangGraph.git
+   cd Self-Improving-AI-Agent-with-LangGraph
    ```
 
 2. **Create and activate a virtual environment:**
