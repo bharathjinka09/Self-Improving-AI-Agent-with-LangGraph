@@ -1,5 +1,5 @@
 import os
-from src.agent import build_self_improving_graph
+from agent import build_self_improving_graph
 
 
 def main():
